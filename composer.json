@@ -1,0 +1,27 @@
+{
+  "name": "cidaas/login-using-cidaas",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0-only",
+  "description": "Enhance your login experience with social login like Google, FB, as well as explore options of SSO, passwordless, all while being secure and compliant to world standards",
+  "homepage": "https://github.com/Cidaas/cidaas-for-wordpress",
+  "authors": [
+    {
+      "name": "Gopi Mallela",
+      "email": "gopi.mallela@widas.in",
+      "homepage": "https://github.com/Cidaas"
+    }
+  ],
+  "keywords": [
+    "wordpress",
+    "openid",
+    "cidaas",
+    "authentication"
+  ],
+  "support": {
+    "issues": "https://github.com/Cidaas/cidaas-for-wordpress/issues"
+  },
+  "require": {
+    "php": ">=5.3.3",
+    "composer/installers": "~1.0"
+  }
+}
